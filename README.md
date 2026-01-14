@@ -80,7 +80,7 @@ WeSplit/
 
 ## Read More
 
-📝 **[Building the Same App in SwiftUI, Kotlin Multiplatform, and Flutter](link-to-medium-article)**
+📝 **[Building the Same App in SwiftUI, Kotlin Multiplatform, and Flutter — What 281 vs. 75 Lines of Code Teaches Us](https://medium.com/@simonbogutzky/building-the-same-app-in-swiftui-kotlin-multiplatform-and-flutter-what-281-vs-200238dac555)**
 
 A detailed comparison of implementing WeSplit across three frameworks, examining code metrics, architecture patterns, and developer experience.
 
